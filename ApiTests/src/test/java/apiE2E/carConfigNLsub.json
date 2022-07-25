@@ -1,0 +1,1051 @@
+{
+  "market":{
+    "country":"NL",
+    "language":"nl",
+    "partnerId":"6NL10500",
+    "programMarket":"501"
+  },
+  "userinput":{
+    "contractType":"sub_fixed",
+    "customerType":"b2c",
+    "input":[
+      {
+        "name":"contractLength",
+        "value":48
+      },
+      {
+        "name":"mileage",
+        "value":10000
+      }
+    ]
+  },
+  "applicationparameters":{
+    "pdfurl":"https://qawww.volvocars.com/nl/choose-offer/get-pdf/Volvo.pdf?documentId=nl-xc40-hybrid-cbv-7174769265846824670-5c5b45c1-adb9-4118-afcd-c8243e79a0df.pdf",
+    "returnurl":"https://qawww.volvocars.com/nl/choose-offer/review?cbv=1&pricing=sub_fixed&token=7174769265846824670&model=xc40-hybrid",
+    "images":{
+      "view":[
+        {
+          "name":"exterior",
+          "angle":[
+            {
+              "value":1,
+              "image":[
+                {
+                  "size":"dcom-1280x530",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/exterior-v2/G3/71700/R7C000/R146/FN01/TC06/_/TP02/LR02/_/GR03/T101/TJ01/NP02/TM02/_/CB03/_/JB0A/T210/LF01/_/VP03/FH01/_/_/_/_/_/default.jpg?market=nl&client=vcs&angle=1&w=1200"
+                },
+                {
+                  "size":"dcom-1920x796",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/exterior-v2/G3/71700/R7C000/R146/FN01/TC06/_/TP02/LR02/_/GR03/T101/TJ01/NP02/TM02/_/CB03/_/JB0A/T210/LF01/_/VP03/FH01/_/_/_/_/_/default.jpg?market=nl&client=vcs&angle=1&w=1920"
+                },
+                {
+                  "size":"dcom-640x265",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/exterior-v2/G3/71700/R7C000/R146/FN01/TC06/_/TP02/LR02/_/GR03/T101/TJ01/NP02/TM02/_/CB03/_/JB0A/T210/LF01/_/VP03/FH01/_/_/_/_/_/default.jpg?market=nl&client=vcs&angle=1&w=512"
+                }
+              ]
+            },
+            {
+              "value":3,
+              "image":[
+                {
+                  "size":"dcom-1280x530",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/exterior-v2/G3/71700/R7C000/R146/FN01/TC06/_/TP02/LR02/_/GR03/T101/TJ01/NP02/TM02/_/CB03/_/JB0A/T210/LF01/_/VP03/FH01/_/_/_/_/_/default.jpg?market=nl&client=vcs&angle=3&w=1200"
+                },
+                {
+                  "size":"dcom-1920x796",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/exterior-v2/G3/71700/R7C000/R146/FN01/TC06/_/TP02/LR02/_/GR03/T101/TJ01/NP02/TM02/_/CB03/_/JB0A/T210/LF01/_/VP03/FH01/_/_/_/_/_/default.jpg?market=nl&client=vcs&angle=3&w=1920"
+                },
+                {
+                  "size":"dcom-640x265",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/exterior-v2/G3/71700/R7C000/R146/FN01/TC06/_/TP02/LR02/_/GR03/T101/TJ01/NP02/TM02/_/CB03/_/JB0A/T210/LF01/_/VP03/FH01/_/_/_/_/_/default.jpg?market=nl&client=vcs&angle=3&w=512"
+                }
+              ]
+            },
+            {
+              "value":4,
+              "image":[
+                {
+                  "size":"dcom-1280x530",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/exterior-v2/G3/71700/R7C000/R146/FN01/TC06/_/TP02/LR02/_/GR03/T101/TJ01/NP02/TM02/_/CB03/_/JB0A/T210/LF01/_/VP03/FH01/_/_/_/_/_/default.jpg?market=nl&client=vcs&angle=4&w=1200"
+                },
+                {
+                  "size":"dcom-1920x796",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/exterior-v2/G3/71700/R7C000/R146/FN01/TC06/_/TP02/LR02/_/GR03/T101/TJ01/NP02/TM02/_/CB03/_/JB0A/T210/LF01/_/VP03/FH01/_/_/_/_/_/default.jpg?market=nl&client=vcs&angle=4&w=1920"
+                },
+                {
+                  "size":"dcom-640x265",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/exterior-v2/G3/71700/R7C000/R146/FN01/TC06/_/TP02/LR02/_/GR03/T101/TJ01/NP02/TM02/_/CB03/_/JB0A/T210/LF01/_/VP03/FH01/_/_/_/_/_/default.jpg?market=nl&client=vcs&angle=4&w=512"
+                }
+              ]
+            },
+            {
+              "value":5,
+              "image":[
+                {
+                  "size":"dcom-1280x530",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/exterior-v2/G3/71700/R7C000/R146/FN01/TC06/_/TP02/LR02/_/GR03/T101/TJ01/NP02/TM02/_/CB03/_/JB0A/T210/LF01/_/VP03/FH01/_/_/_/_/_/default.jpg?market=nl&client=vcs&angle=5&w=1200"
+                },
+                {
+                  "size":"dcom-1920x796",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/exterior-v2/G3/71700/R7C000/R146/FN01/TC06/_/TP02/LR02/_/GR03/T101/TJ01/NP02/TM02/_/CB03/_/JB0A/T210/LF01/_/VP03/FH01/_/_/_/_/_/default.jpg?market=nl&client=vcs&angle=5&w=1920"
+                },
+                {
+                  "size":"dcom-640x265",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/exterior-v2/G3/71700/R7C000/R146/FN01/TC06/_/TP02/LR02/_/GR03/T101/TJ01/NP02/TM02/_/CB03/_/JB0A/T210/LF01/_/VP03/FH01/_/_/_/_/_/default.jpg?market=nl&client=vcs&angle=5&w=512"
+                }
+              ]
+            },
+            {
+              "value":6,
+              "image":[
+                {
+                  "size":"dcom-1280x530",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/exterior-v2/G3/71700/R7C000/R146/FN01/TC06/_/TP02/LR02/_/GR03/T101/TJ01/NP02/TM02/_/CB03/_/JB0A/T210/LF01/_/VP03/FH01/_/_/_/_/_/default.jpg?market=nl&client=vcs&angle=6&w=1200"
+                },
+                {
+                  "size":"dcom-1920x796",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/exterior-v2/G3/71700/R7C000/R146/FN01/TC06/_/TP02/LR02/_/GR03/T101/TJ01/NP02/TM02/_/CB03/_/JB0A/T210/LF01/_/VP03/FH01/_/_/_/_/_/default.jpg?market=nl&client=vcs&angle=6&w=1920"
+                },
+                {
+                  "size":"dcom-640x265",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/exterior-v2/G3/71700/R7C000/R146/FN01/TC06/_/TP02/LR02/_/GR03/T101/TJ01/NP02/TM02/_/CB03/_/JB0A/T210/LF01/_/VP03/FH01/_/_/_/_/_/default.jpg?market=nl&client=vcs&angle=6&w=512"
+                }
+              ]
+            },
+            {
+              "value":7,
+              "image":[
+                {
+                  "size":"dcom-1280x530",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/exterior-v2/G3/71700/R7C000/R146/FN01/TC06/_/TP02/LR02/_/GR03/T101/TJ01/NP02/TM02/_/CB03/_/JB0A/T210/LF01/_/VP03/FH01/_/_/_/_/_/default.jpg?market=nl&client=vcs&angle=7&w=1200"
+                },
+                {
+                  "size":"dcom-1920x796",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/exterior-v2/G3/71700/R7C000/R146/FN01/TC06/_/TP02/LR02/_/GR03/T101/TJ01/NP02/TM02/_/CB03/_/JB0A/T210/LF01/_/VP03/FH01/_/_/_/_/_/default.jpg?market=nl&client=vcs&angle=7&w=1920"
+                },
+                {
+                  "size":"dcom-640x265",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/exterior-v2/G3/71700/R7C000/R146/FN01/TC06/_/TP02/LR02/_/GR03/T101/TJ01/NP02/TM02/_/CB03/_/JB0A/T210/LF01/_/VP03/FH01/_/_/_/_/_/default.jpg?market=nl&client=vcs&angle=7&w=512"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name":"interior",
+          "angle":[
+            {
+              "value":0,
+              "image":[
+                {
+                  "size":"dcom-1280x530",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/interior-v2/G3/F/1/71700/R7C000/NC02/DI06/RU09/PD02/P201/LK02/_/KB02/NY02/KK03/_/CQ02/NP02/CB03/_/K504/_/NI02/K902/FH01/RT02/PN03/default.jpg?market=nl&client=vcs&angle=0&w=1200"
+                },
+                {
+                  "size":"dcom-1920x796",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/interior-v2/G3/F/1/71700/R7C000/NC02/DI06/RU09/PD02/P201/LK02/_/KB02/NY02/KK03/_/CQ02/NP02/CB03/_/K504/_/NI02/K902/FH01/RT02/PN03/default.jpg?market=nl&client=vcs&angle=0&w=1920"
+                },
+                {
+                  "size":"dcom-640x265",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/interior-v2/G3/F/1/71700/R7C000/NC02/DI06/RU09/PD02/P201/LK02/_/KB02/NY02/KK03/_/CQ02/NP02/CB03/_/K504/_/NI02/K902/FH01/RT02/PN03/default.jpg?market=nl&client=vcs&angle=0&w=512"
+                }
+              ]
+            },
+            {
+              "value":1,
+              "image":[
+                {
+                  "size":"dcom-1280x530",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/drivers-view-v3/G3/F/1/71700/R7C000/NC02/DI06/RU09/PD02/P201/LK02/KB02/NY02/KK03/_/CQ02/NP02/CB03/_/K504/T210/_/NI02/K902/FH01/RT02/default.jpg?market=nl&client=vcs&angle=0&w=1200"
+                },
+                {
+                  "size":"dcom-1920x796",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/drivers-view-v3/G3/F/1/71700/R7C000/NC02/DI06/RU09/PD02/P201/LK02/KB02/NY02/KK03/_/CQ02/NP02/CB03/_/K504/T210/_/NI02/K902/FH01/RT02/default.jpg?market=nl&client=vcs&angle=0&w=1920"
+                },
+                {
+                  "size":"dcom-640x265",
+                  "url":"https://cas.volvocars.com/image/dynamic/MY23_2217/536/drivers-view-v3/G3/F/1/71700/R7C000/NC02/DI06/RU09/PD02/P201/LK02/KB02/NY02/KK03/_/CQ02/NP02/CB03/_/K504/T210/_/NI02/K902/FH01/RT02/default.jpg?market=nl&client=vcs&angle=0&w=512"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "configuration":{
+    "brand":"VCC",
+    "cceTokenShort":"7174769265846824670",
+    "configurationid":{
+      "gccconfigurationid":2385861
+    },
+    "modelyear":2023,
+    "structureweek":202222,
+    "co2":48,
+    "efficiencyClass":"A",
+    "fuelConsumption":2.1,
+    "totalprice":{
+      "currency":"EUR",
+      "totalpricevalue":53035,
+      "priceelement":[
+        {
+          "taxId":null,
+          "taxVersionId":null,
+          "vatPosition":null,
+          "name":"TotalPrice",
+          "description":"",
+          "elementprice":53035
+        },
+        {
+          "taxId":null,
+          "taxVersionId":null,
+          "vatPosition":null,
+          "name":"BasicPrice",
+          "description":"",
+          "elementprice":41300.83
+        },
+        {
+          "taxId":"370",
+          "taxVersionId":"6453",
+          "vatPosition":"BEFORE",
+          "name":"Recyclingbijdrage",
+          "description":"Recyclingbijdrage",
+          "elementprice":57.85
+        },
+        {
+          "taxId":"372",
+          "taxVersionId":"6452",
+          "vatPosition":"AFTER",
+          "name":"Kentekenkosten",
+          "description":"Kentekenkosten",
+          "elementprice":47.13
+        },
+        {
+          "taxId":"371",
+          "taxVersionId":"6710",
+          "vatPosition":"BEFORE",
+          "name":"Kosten rijklaar maken",
+          "description":"Kosten rijklaar maken",
+          "elementprice":775.1
+        },
+        {
+          "taxId":"122",
+          "taxVersionId":"6437",
+          "vatPosition":"AFTER",
+          "name":"BPM-bedrag",
+          "description":"BPM-bedrag",
+          "elementprice":2006
+        },
+        {
+          "taxId":"124",
+          "taxVersionId":"1567",
+          "vatPosition":"VAT",
+          "name":"BTW-bedrag",
+          "description":"BTW-bedrag",
+          "elementprice":8848.09
+        }
+      ]
+    },
+    "informationalTaxes":{
+      "informationalTax":[
+        {
+          "name":"OwnerShipTaxMonthly",
+          "value":0
+        }
+      ]
+    },
+    "features":{
+      "colour":{
+        "feature":{
+          "code":"71700",
+          "name":"Onyx Black",
+          "featureprice":{
+            "elementprice":0,
+            "type":"COL"
+          }
+        }
+      },
+      "upholstery":{
+        "feature":{
+          "code":"R7C000",
+          "name":"Textiel City Block Charcoal/Grey Melange - R7C0",
+          "featureprice":{
+            "elementprice":0,
+            "type":"UPH"
+          }
+        }
+      },
+      "options":{
+        "group":[
+          {
+            "feature":[
+              {
+                "code":"$FR146",
+                "name":"18″ 5-Aero Spaaks Glossy Black/Diamond Cut",
+                "featureprice":{
+                  "elementprice":0,
+                  "type":"OPT"
+                }
+              },
+              {
+                "code":"000603",
+                "name":"Intellisafe Surround",
+                "featureprice":{
+                  "elementprice":0,
+                  "type":"OPT"
+                }
+              },
+              {
+                "code":"000132",
+                "name":"Intellisafe Assist",
+                "featureprice":{
+                  "elementprice":0,
+                  "type":"OPT"
+                }
+              },
+              {
+                "code":"000996",
+                "name":"16A Mennekes - Mennekes 7 meter laadkabel",
+                "featureprice":{
+                  "elementprice":0,
+                  "type":"OPT"
+                }
+              },
+              {
+                "code":"000179",
+                "name":"Extra getint glas achter",
+                "featureprice":{
+                  "elementprice":0,
+                  "type":"OPT"
+                }
+              },
+              {
+                "code":"001028",
+                "name":"Trekhaak elektrisch inklapbaar",
+                "featureprice":{
+                  "elementprice":0,
+                  "type":"OPT"
+                }
+              },
+              {
+                "code":"000360",
+                "name":"Nederlandstalig",
+                "featureprice":{
+                  "elementprice":0,
+                  "type":"OPT"
+                }
+              },
+              {
+                "code":"001066",
+                "name":"Alarm voorbereiding",
+                "featureprice":{
+                  "elementprice":0,
+                  "type":"OPT"
+                }
+              },
+              {
+                "code":"900395",
+                "name":"INSTR.BOOK FOR THE NETHERLANDS",
+                "featureprice":{
+                  "elementprice":0,
+                  "type":"OPT"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "packages":{
+        "package":[
+          {
+            "packagefeature":[
+              {
+                "code":"P0005",
+                "name":"Driver Assist"
+              }
+            ],
+            "packageprice":{
+              "priceelement":{
+                "elementprice":0
+              }
+            },
+            "code":"P0005",
+            "name":"Driver Assist"
+          }
+        ]
+      },
+      "standardfeatures":{
+        "standardfeaturegroup":{
+          "standardfeature":[
+            {
+              "code":"CB03",
+              "name":"PHEV"
+            },
+            {
+              "code":"CG01",
+              "name":"PETROL"
+            },
+            {
+              "code":"CJ03",
+              "name":"EVI 2"
+            },
+            {
+              "code":"CK21",
+              "name":"HBAT 20"
+            },
+            {
+              "code":"CP02",
+              "name":"EFAD"
+            },
+            {
+              "code":"CQ02",
+              "name":"Drive modes"
+            },
+            {
+              "code":"CS0C",
+              "name":"H7 AGM05"
+            },
+            {
+              "code":"DB07",
+              "name":"7-traps Dual Clutch-automaat"
+            },
+            {
+              "code":"DI06",
+              "name":"Fraai gevormde versnellingspook"
+            },
+            {
+              "code":"D202",
+              "name":"FWD"
+            },
+            {
+              "code":"ED04",
+              "name":"2-zone Electronic Climate Control"
+            },
+            {
+              "code":"EE04",
+              "name":"Naloop parkeerklimaat"
+            },
+            {
+              "code":"EJ02",
+              "name":"Passagiersairbagschakelaar"
+            },
+            {
+              "code":"EO02",
+              "name":"Tweetrapsairbags"
+            },
+            {
+              "code":"EQ02",
+              "name":"Knieairbag, bestuurderszijde"
+            },
+            {
+              "code":"FH01",
+              "name":"Charcoal hemelbekleding"
+            },
+            {
+              "code":"FJ02",
+              "name":"Charcoal hemelbekleding"
+            },
+            {
+              "code":"FM01",
+              "name":"Charcoal inzetstukken in het interieur"
+            },
+            {
+              "code":"FN01",
+              "name":"ROOFSTD"
+            },
+            {
+              "code":"FR02",
+              "name":"Road Sign Information"
+            },
+            {
+              "code":"FT02",
+              "name":"Lane Keeping Aid"
+            },
+            {
+              "code":"GG24",
+              "name":"G1E6D"
+            },
+            {
+              "code":"GN1D",
+              "name":"EM V"
+            },
+            {
+              "code":"GR03",
+              "name":"Frontgrille in hoogglans zwart met verchroomd frame"
+            },
+            {
+              "code":"G101",
+              "name":"N UREA"
+            },
+            {
+              "code":"G301",
+              "name":"FPUMPS"
+            },
+            {
+              "code":"G402",
+              "name":"EFLID"
+            },
+            {
+              "code":"G608",
+              "name":"49L"
+            },
+            {
+              "code":"JB0A",
+              "name":"Led-koplampen"
+            },
+            {
+              "code":"KB02",
+              "name":"12 inch bestuurdersdisplay"
+            },
+            {
+              "code":"KD12",
+              "name":"LIM 180"
+            },
+            {
+              "code":"KG03",
+              "name":"Adaptive Cruise Control"
+            },
+            {
+              "code":"KI04",
+              "name":"Pilot Assist"
+            },
+            {
+              "code":"KJ03",
+              "name":"EU5GEN4"
+            },
+            {
+              "code":"KK03",
+              "name":"USB 2"
+            },
+            {
+              "code":"KR02",
+              "name":"Snelheidsbegrenzer"
+            },
+            {
+              "code":"KU02",
+              "name":"My Volvo"
+            },
+            {
+              "code":"KW02",
+              "name":"Geventileerde subwoofer"
+            },
+            {
+              "code":"KZ06",
+              "name":"TEM 5"
+            },
+            {
+              "code":"K202",
+              "name":"Digital Audio Broadcasting (DAB+)"
+            },
+            {
+              "code":"K504",
+              "name":"Premium Audio by Harman Kardon"
+            },
+            {
+              "code":"K702",
+              "name":"Elektrisch inklapbare buitenspiegels"
+            },
+            {
+              "code":"K902",
+              "name":"Draadloos telefoon opladen"
+            },
+            {
+              "code":"LA02",
+              "name":"Automatische portiervergrendeling"
+            },
+            {
+              "code":"LB03",
+              "name":"Sleutelbehuizing, Charcoal leer"
+            },
+            {
+              "code":"LF01",
+              "name":"Spiegelkappen, in bijpassende kleur"
+            },
+            {
+              "code":"LK02",
+              "name":"Klein opbergvak, vooraan"
+            },
+            {
+              "code":"LM01",
+              "name":"Dubbele vergrendeling"
+            },
+            {
+              "code":"LR02",
+              "name":"Extra getint glas achter"
+            },
+            {
+              "code":"LV03",
+              "name":"IMS PREP"
+            },
+            {
+              "code":"LW02",
+              "name":"Intellisafe Surround"
+            },
+            {
+              "code":"L103",
+              "name":"ALARMPRP"
+            },
+            {
+              "code":"L201",
+              "name":"CENNORM"
+            },
+            {
+              "code":"L302",
+              "name":"Elektrisch bedienbare kindersloten op achterportieren"
+            },
+            {
+              "code":"L702",
+              "name":"Elektrisch bediende achterklep"
+            },
+            {
+              "code":"L902",
+              "name":"Keyless Entry met handsfree elektrische achterklep."
+            },
+            {
+              "code":"MB04",
+              "name":"ESM 3"
+            },
+            {
+              "code":"MC04",
+              "name":"CleanZone"
+            },
+            {
+              "code":"ME02",
+              "name":"Uitklapbaar tassenhaakje"
+            },
+            {
+              "code":"MG02",
+              "name":"Luchtfilter"
+            },
+            {
+              "code":"MJ02",
+              "name":"SPEECH"
+            },
+            {
+              "code":"MM02",
+              "name":"Digitale gebruikershandleiding"
+            },
+            {
+              "code":"MO07",
+              "name":"Nederlandstalig"
+            },
+            {
+              "code":"MS1D",
+              "name":"OIDUT"
+            },
+            {
+              "code":"MV3C",
+              "name":"DIST60"
+            },
+            {
+              "code":"NC02",
+              "name":"Urban Grid aluminium sierpaneel"
+            },
+            {
+              "code":"NG1B",
+              "name":"Premium textielbekleding"
+            },
+            {
+              "code":"NI02",
+              "name":"Elektrisch bedienbare bestuurdersstoel met geheugen"
+            },
+            {
+              "code":"NJ02",
+              "name":"Elektrisch bedienbare passagiersstoel"
+            },
+            {
+              "code":"NM02",
+              "name":"Verwarmbare voorstoelen"
+            },
+            {
+              "code":"NO02",
+              "name":"Elektrisch bedienbare hoofdsteunen achterin"
+            },
+            {
+              "code":"NP02",
+              "name":"Vijf zitplaatsen"
+            },
+            {
+              "code":"NR03",
+              "name":"Mechanische ontgrendeling van de tweede rij zitplaatsen"
+            },
+            {
+              "code":"NU03",
+              "name":"Handbediende kussenverlenging, bestuurder en passagier"
+            },
+            {
+              "code":"NV02",
+              "name":"Elektrisch bedienbare lendensteun met 4-wegverstelling"
+            },
+            {
+              "code":"NY02",
+              "name":"Textielmatten"
+            },
+            {
+              "code":"N202",
+              "name":"Bagagenet"
+            },
+            {
+              "code":"N501",
+              "name":"Middenarmsteun achter"
+            },
+            {
+              "code":"PB02",
+              "name":"Verlichte make-upspiegels"
+            },
+            {
+              "code":"PD02",
+              "name":"Verlichtingspack 2"
+            },
+            {
+              "code":"PE02",
+              "name":"Elektrische aansluiting, bagageruimte"
+            },
+            {
+              "code":"PG10",
+              "name":"5V 2"
+            },
+            {
+              "code":"PI03",
+              "name":"AIDKIT2"
+            },
+            {
+              "code":"PN03",
+              "name":"Automatisch dimmende binnen- en buitenspiegels"
+            },
+            {
+              "code":"P201",
+              "name":"Hoogglans zwarte tunnelconsole"
+            },
+            {
+              "code":"RA03",
+              "name":"Dynamisch chassis"
+            },
+            {
+              "code":"RD02",
+              "name":"Remsysteem met energierecuperatie"
+            },
+            {
+              "code":"RE0A",
+              "name":"FB+18"
+            },
+            {
+              "code":"RG08",
+              "name":"Tyre Pressure Monitoring System"
+            },
+            {
+              "code":"RK01",
+              "name":"RB16"
+            },
+            {
+              "code":"RL02",
+              "name":"Oncoming Lane Mitigation"
+            },
+            {
+              "code":"RM02",
+              "name":"Rear Collision Warning"
+            },
+            {
+              "code":"RN02",
+              "name":"Hill Descent Control"
+            },
+            {
+              "code":"RO02",
+              "name":"RFI"
+            },
+            {
+              "code":"RS02",
+              "name":"Noodstopverlichting"
+            },
+            {
+              "code":"RT02",
+              "name":"Stuurverwarming"
+            },
+            {
+              "code":"RU09",
+              "name":"Sportstuur op maat, Charcoal"
+            },
+            {
+              "code":"RZ02",
+              "name":"Adaptieve stuurbekrachtiging"
+            },
+            {
+              "code":"R146",
+              "name":"18″ 5-Aero Spaaks Glossy Black/Diamond Cut"
+            },
+            {
+              "code":"R426",
+              "name":"MI HASW"
+            },
+            {
+              "code":"R50B",
+              "name":"235/55 8"
+            },
+            {
+              "code":"R603",
+              "name":"Noodreparatieset"
+            },
+            {
+              "code":"SR06",
+              "name":"Verborgen eindpijpen"
+            },
+            {
+              "code":"TC06",
+              "name":"SHANDLE6"
+            },
+            {
+              "code":"TF02",
+              "name":"Scuff plate achterklepopening, roestvrij staal"
+            },
+            {
+              "code":"TJ01",
+              "name":"BUMPCOL1"
+            },
+            {
+              "code":"TM02",
+              "name":"Zijruiten met glanzend aluminium sierlijsten"
+            },
+            {
+              "code":"TP02",
+              "name":"Dakrails, glanzend aluminium"
+            },
+            {
+              "code":"TS02",
+              "name":"TRIANGLE"
+            },
+            {
+              "code":"TU05",
+              "name":"Recharge aluminium instaplijsten, voor"
+            },
+            {
+              "code":"TX04",
+              "name":"Recharge-logo in reliëfopdruk op C/D-stijl"
+            },
+            {
+              "code":"T101",
+              "name":"N EMBEX"
+            },
+            {
+              "code":"T210",
+              "name":"T4"
+            },
+            {
+              "code":"T601",
+              "name":"Getemperde zijruiten"
+            },
+            {
+              "code":"T702",
+              "name":"Regensensor"
+            },
+            {
+              "code":"VA02",
+              "name":"MAP EU"
+            },
+            {
+              "code":"VB02",
+              "name":"Navigatie"
+            },
+            {
+              "code":"VP03",
+              "name":"Park Assist, achter en voor"
+            },
+            {
+              "code":"V102",
+              "name":"Tickethouder"
+            },
+            {
+              "code":"2A04",
+              "name":"TRM 13S"
+            },
+            {
+              "code":"2B03",
+              "name":"Elektrisch verwarmen en koelen van uw interieur"
+            },
+            {
+              "code":"2C05",
+              "name":"Trekhaak elektrisch inklapbaar"
+            },
+            {
+              "code":"2G08",
+              "name":"Park Assist Camera, achter"
+            },
+            {
+              "code":"2X02",
+              "name":"RES"
+            },
+            {
+              "code":"3C02",
+              "name":"NPADAPT2"
+            },
+            {
+              "code":"3X02",
+              "name":"Alarm voorbereiding"
+            },
+            {
+              "code":"6A04",
+              "name":"ADM INS"
+            },
+            {
+              "code":"6F01",
+              "name":"Wieldoppenset, Matt Tech Grey"
+            },
+            {
+              "code":"7K02",
+              "name":"STDSPRI"
+            },
+            {
+              "code":"8G04",
+              "name":"Integratie van smartphone"
+            },
+            {
+              "code":"8H01",
+              "name":"Voorstoelen"
+            },
+            {
+              "code":"8N02",
+              "name":"9 inch middendisplay"
+            },
+            {
+              "code":"8X0D",
+              "name":"16A Mennekes - Mennekes 7 meter laadkabel"
+            },
+            {
+              "code":"0007",
+              "name":"Whiplash Injury Protection System"
+            },
+            {
+              "code":"0008",
+              "name":"Gordijnairbag"
+            },
+            {
+              "code":"0028",
+              "name":"Side Impact Protection System"
+            },
+            {
+              "code":"0072",
+              "name":"ISOFIX bevestigingspunten, achterbank"
+            },
+            {
+              "code":"0084",
+              "name":"Afstandsbediening op stuurwiel"
+            },
+            {
+              "code":"0085",
+              "name":"Vochtigheidssensor"
+            },
+            {
+              "code":"0088",
+              "name":"Bluetooth®-verbinding"
+            },
+            {
+              "code":"0091",
+              "name":""
+            }
+          ]
+        }
+      }
+    },
+    "variant":{
+      "pno12":{
+        "pno12code":"536BWG30F119"
+      },
+      "pno34plusoptions":"536BWG30F11971700R7C000      00000000132000179000360000603000996001028001066900395",
+      "body":{
+        "elementprice":0,
+        "name":"536",
+        "code":"0"
+      },
+      "gccdriveline":{
+        "elementprice":0,
+        "name":"T4 plug-in hybrid",
+        "code":""
+      },
+      "gccvariant":{
+        "elementprice":0,
+        "name":"XC40 Recharge Plus T4 plug-in hybrid",
+        "code":"536BWG30F119"
+      },
+      "model":{
+        "elementprice":0,
+        "name":"XC40",
+        "code":"XC40"
+      },
+      "salesversion":{
+        "elementprice":0,
+        "name":"Plus",
+        "code":"G3"
+      },
+      "engine":{
+        "elementprice":0,
+        "name":"T4 plug-in hybrid",
+        "code":"BW"
+      },
+      "gearbox":{
+        "elementprice":0,
+        "name":"7-speed Dual Clutch transmission",
+        "code":"F"
+      },
+      "marketingcode":{
+        "elementprice":0,
+        "name":"19",
+        "code":"19"
+      },
+      "steering":{
+        "elementprice":0,
+        "name":"1",
+        "code":"1"
+      },
+      "color":{
+        "elementprice":0,
+        "name":"Onyx Black",
+        "code":"71700"
+      },
+      "upholstery":{
+        "elementprice":0,
+        "name":"Textiel City Block Charcoal/Grey Melange - R7C0",
+        "code":"R7C000"
+      },
+      "drive":{
+        "elementprice":0,
+        "code":"FWD",
+        "name":"FWD"
+      },
+      "transmission":{
+        "elementprice":0,
+        "code":"Automatic",
+        "name":"Automatic"
+      },
+      "fueltype":{
+        "elementprice":0,
+        "code":"hybrid",
+        "name":"Elektrisch/benzine"
+      }
+    },
+    "isURAX":"Y"
+  },
+  "selectedoffers":{
+    "selectedoffer":[
+      "FixFlex",
+      "NoHiddenCost",
+      "InsSerWar",
+      "Service",
+      "WearAndTear",
+      "Insurance",
+      "Tires",
+      "Tax",
+      "PremiumFeatures",
+      "Concierge",
+      "Assistance",
+      "ReplacementCar",
+      "LegalInspection",
+      "Warranty"
+    ]
+  },
+  "featureFlagDeterminants":{
+    "ip":"34.194.42.0",
+    "userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36",
+    "acceptsFunctionalCookies":true,
+    "googleAnalyticsCookie":"GA1.2.305446249.1641957248",
+    "vccSession":"T4dBixltzU4zN6hP80xafSegiN9op1gZz8zHRvXkj6LyUc0LbQxRIky2TZkUtUfoB0VaWAzJjhnel3iKeBIQ"
+  }
+}

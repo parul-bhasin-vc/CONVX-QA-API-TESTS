@@ -1,5 +1,6 @@
 # Default ignored files
-.DS_Store
+**/.DS_Store
+../.DS_Store
 /target
-**/.idea
+../.idea/
 /*.iml

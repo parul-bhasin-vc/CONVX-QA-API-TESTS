@@ -16,7 +16,7 @@ class TestRunner {
 
     @Test
     void testParallel() {
-        Results results = Runner.path("classpath:apiE2E")
+        Results results = Runner.path("classpath:")
                 //.outputCucumberJson(true)
                 .tags("~@Ignore").parallel(20);
         assertEquals(0, results.getFailCount(), results.getErrorMessages());

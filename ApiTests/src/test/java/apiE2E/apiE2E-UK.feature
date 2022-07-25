@@ -1,4 +1,4 @@
-
+@Ignore
 Feature: sample karate test script
   for help, see: https://github.com/intuit/karate/wiki/IDE-Support
 

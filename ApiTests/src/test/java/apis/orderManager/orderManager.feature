@@ -7,8 +7,7 @@ Feature: API tests for order-manager apis
     And path 'adgfZjW1A9JR8A3IZffZYkvnEhkwvboxsmDCKM8ponCq5tq50iAXzxxKPKMN2AUr9UG4r0nlYUoWbEH9VINPg'
     When method GET
     Then status 200
-    Then print response
-
+    
   Scenario: testing the get Order Details API for non-existing order
 
     Given url 'https://internal.cdls.euwest1.staging.volvo.care/internal/ordermanager/v1/orders'

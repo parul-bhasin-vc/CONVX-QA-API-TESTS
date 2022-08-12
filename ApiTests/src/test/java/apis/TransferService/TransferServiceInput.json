@@ -1,0 +1,753 @@
+   {
+  "market":null,
+  "marketTemp":"us",
+  "configuration":{
+    "brand":"VCC",
+    "configurationid":{
+      "gccconfigurationid":"1736462",
+      "vbsconfigurationid":"1736462"
+    },
+    "variant":{
+      "model":{
+        "name":"XC40",
+        "code":"536",
+        "elementprice":"0"
+      },
+      "engine":{
+        "name":"P4 MP 2.0L 252/350",
+        "code":"16",
+        "elementprice":"35700"
+      },
+      "salesversion":{
+        "name":"Momentum",
+        "code":"42",
+        "elementprice":"1100"
+      },
+      "gccvariant":{
+        "name":"T5 AWD Momentum",
+        "code":"53616420C131",
+        "elementprice":"0"
+      },
+      "gccdriveline":{
+        "name":"T5 AWD Momentum",
+        "code":"494237432",
+        "elementprice":"41725"
+      },
+      "body":{
+        "name":"NO SIGNIFICATION",
+        "code":"0",
+        "elementprice":"0"
+      },
+      "gearbox":{
+        "name":"8-SPEED AUTO AWD",
+        "code":"C",
+        "elementprice":"0"
+      },
+      "steering":{
+        "name":"LH DRIVE",
+        "code":"1",
+        "elementprice":"0"
+      },
+      "marketingcode":{
+        "name":"CALIFORNIA",
+        "code":"31",
+        "elementprice":"0"
+      },
+      "pno12":{
+        "pno12code":"53616420C131"
+      },
+      "pno34plusoptions":"53616420C13161400RD9000      00000000011000030000167000169000372000603000691000869000896000918000922XSIMCDXVONCL"
+    },
+    "features":{
+      "standardfeatures":{
+        "standardfeaturegroup":[
+          {
+            "name":"Audio & Technology",
+            "standardfeature":[
+              {
+                "name":"12.3\" Driver Display",
+                "code":"KB02"
+              },
+              {
+                "name":"12V Power Outlet in Luggage Area",
+                "code":"PE02"
+              },
+              {
+                "name":"12V Power Outlet in Rear Console",
+                "code":"PG07"
+              },
+              {
+                "name":"9\" Sensus Touch Screen Display",
+                "code":"8N02"
+              },
+              {
+                "name":"Bluetooth connection",
+                "code":"0088"
+              },
+              {
+                "name":"HD Radio & SiriusXM Satellite Radio",
+                "code":"K203"
+              },
+              {
+                "name":"High Performance Audio System",
+                "code":"K502"
+              },
+              {
+                "name":"Remote Key",
+                "code":"LB06"
+              },
+              {
+                "name":"Smartphone App",
+                "code":"2X02"
+              },
+              {
+                "name":"Smart phone integration with USB HUB (iPhone and Android)",
+                "code":"8G04"
+              },
+              {
+                "name":"Speech function",
+                "code":"MJ02"
+              },
+              {
+                "name":"Steering Wheel Controls",
+                "code":"0084"
+              },
+              {
+                "name":"USB Connections",
+                "code":"KK03"
+              }
+            ]
+          },
+          {
+            "name":"Performance",
+            "standardfeature":[
+              {
+                "name":"Drive mode settings",
+                "code":"CQ02"
+              },
+              {
+                "name":"Dynamic Chassis",
+                "code":"RA03"
+              },
+              {
+                "name":"Electrical Power Steering Personalization",
+                "code":"RZ02"
+              },
+              {
+                "name":"Hidden Tail Pipes",
+                "code":"SR06"
+              }
+            ]
+          },
+          {
+            "name":"Exterior",
+            "standardfeature":[
+              {
+                "name":"18\" 5-Spoke Silver Alloy Wheels",
+                "code":"R137"
+              },
+              {
+                "name":"Color Coordinated Rear View Mirror Caps",
+                "code":"LF01"
+              },
+              {
+                "name":"Glossy Silver Skid Plates, Front & Rear",
+                "code":"TJ01"
+              },
+              {
+                "name":"Handle side door body color, without damper",
+                "code":"TC01"
+              },
+              {
+                "name":"Heated Windshield Washer Nozzles",
+                "code":"TB03"
+              },
+              {
+                "name":"High Gloss Grille",
+                "code":"GR01"
+              },
+              {
+                "name":"LED Headlights w/ Thor’s Hammer Daytime Running Lights & Auto Highbeam",
+                "code":"JB09"
+              },
+              {
+                "name":"Power Operated Tailgate",
+                "code":"L702"
+              },
+              {
+                "name":"Roof rails integrated bright",
+                "code":"TP02"
+              },
+              {
+                "name":"Tinted windows, rear side doors and cargo area",
+                "code":"LR02"
+              }
+            ]
+          },
+          {
+            "name":"Interior",
+            "standardfeature":[
+              {
+                "name":"3-Spoke Leather Steering Wheel w/Uni-deco Inlays",
+                "code":"RU02"
+              },
+              {
+                "name":"4 way power  adjustable lumbar support",
+                "code":"NV02"
+              },
+              {
+                "name":"Aluminum Urban Grid Inlays",
+                "code":"NC02"
+              },
+              {
+                "name":"Automatically dimmed inner mirror",
+                "code":"PN02"
+              },
+              {
+                "name":"Center armrest with cup holders",
+                "code":"N501"
+              },
+              {
+                "name":"Charcoal Headliner",
+                "code":"FJ02"
+              },
+              {
+                "name":"Comfort Seat Padding",
+                "code":"8H01"
+              },
+              {
+                "name":"Elastic strap in cargo area",
+                "code":"N302"
+              },
+              {
+                "name":"Electric Climate Control + CleanZone",
+                "code":"ED03"
+              },
+              {
+                "name":"Glovebox hook",
+                "code":"ME02"
+              },
+              {
+                "name":"Humidity sensor",
+                "code":"0085"
+              },
+              {
+                "name":"Illuminated Mirrors in Sun Visors",
+                "code":"PB02"
+              },
+              {
+                "name":"Interior illumination mid level",
+                "code":"PD03"
+              },
+              {
+                "name":"Leather Gearshift Knob",
+                "code":"DI02"
+              },
+              {
+                "name":"Leather Upholstery",
+                "code":"NG0D"
+              },
+              {
+                "name":"Manual Folding Second Row Rear Seat",
+                "code":"NR03"
+              },
+              {
+                "name":"Mech. pass. seat with height and length adjustment",
+                "code":"NJ04"
+              },
+              {
+                "name":"Power Front Seats w/ Driver Seat Memory",
+                "code":"NI02"
+              },
+              {
+                "name":"Waste bin with net in front of armrest",
+                "code":"PS02"
+              }
+            ]
+          },
+          {
+            "name":"Safety",
+            "standardfeature":[
+              {
+                "name":"Airbag, Driver & Passenger",
+                "code":"EO01"
+              },
+              {
+                "name":"Alarm",
+                "code":"L102"
+              },
+              {
+                "name":"Capacitive Occupant Sensor",
+                "code":"ES03"
+              },
+              {
+                "name":"Central lock switch with diode in front and rear doors",
+                "code":"LA03"
+              },
+              {
+                "name":"Collision Mitigation Support, front",
+                "code":"RL02"
+              },
+              {
+                "name":"Cruise Control",
+                "code":"KG02"
+              },
+              {
+                "name":"Hill Descent Control",
+                "code":"RN02"
+              },
+              {
+                "name":"Hill start assist",
+                "code":"RD02"
+              },
+              {
+                "name":"Indirect TPMS, US Algorithm",
+                "code":"RG07"
+              },
+              {
+                "name":"Inflatable Curtains",
+                "code":"0008"
+              },
+              {
+                "name":"Isofix - outer position rear seat",
+                "code":"0072"
+              },
+              {
+                "name":"Knee airbag driver side",
+                "code":"EQ02"
+              },
+              {
+                "name":"Lane Keeping Aid",
+                "code":"FT02"
+              },
+              {
+                "name":"Park Assist Camera",
+                "code":"2G08"
+              },
+              {
+                "name":"Power Child Locks",
+                "code":"L302"
+              },
+              {
+                "name":"Pyrotechnical pretensioners, front / rear all positions",
+                "code":"0074"
+              },
+              {
+                "name":"Rain sensor",
+                "code":"T702"
+              },
+              {
+                "name":"SIPS Airbags",
+                "code":"0028"
+              },
+              {
+                "name":"Volvo On Call w/Smartphone Integration",
+                "code":"KU02"
+              },
+              {
+                "name":"WHIPS™ Whiplash Protection System",
+                "code":"0007"
+              }
+            ]
+          }
+        ]
+      },
+      "options":{
+        "group":{
+          "name":"Options & Accessories",
+          "code":null,
+          "feature":[
+            {
+              "name":"Laminated Panoramic Moonroof w/ Power Sunshade",
+              "code":"000030",
+              "isaccessory":"false",
+              "featureprice":{
+                "elementprice":"1475",
+                "type":"Normal"
+              }
+            },
+            {
+              "name":"Volvo On Call w/Smartphone Integration (Included)",
+              "code":"XVONCL",
+              "isaccessory":"false",
+              "featureprice":{
+                "elementprice":"0",
+                "type":"Normal"
+              }
+            },
+            {
+              "name":"19\" 5 Spoke Black Alloy Wheels",
+              "code":"000922",
+              "isaccessory":"false",
+              "featureprice":{
+                "elementprice":"800",
+                "type":"Normal"
+              }
+            }
+          ]
+        }
+      },
+      "packages":{
+        "package":[
+          {
+            "name":"Heated Front Seats & Steering Wheel",
+            "code":"MCCFQ",
+            "packagefeature":[
+              {
+                "name":"Heated Steering Wheel",
+                "code":"000869"
+              },
+              {
+                "name":"Heated Front Seats",
+                "code":"000011"
+              }
+            ],
+            "packageprice":{
+              "currency":"USD",
+              "priceelement":{
+                "name":"CbV XC40 TEST",
+                "description":null,
+                "elementprice":"750"
+              }
+            }
+          },
+          {
+            "name":"Premium Package",
+            "code":"MCCFG",
+            "packagefeature":[
+              {
+                "name":"Blind Spot Information System & Cross Traffic Alert W/ Autobrake",
+                "code":"000603"
+              },
+              {
+                "name":"Wireless Charging for Smartphones",
+                "code":"000918"
+              },
+              {
+                "name":"Keyless Entry W/ Handsfree Tailgate Opening",
+                "code":"000896"
+              },
+              {
+                "name":"Retractable Rearview Mirrors",
+                "code":"000167"
+              },
+              {
+                "name":"Front and Rear Park Assist",
+                "code":"000691"
+              },
+              {
+                "name":"Automatically Dimming Exterior Mirrors",
+                "code":"000169"
+              },
+              {
+                "name":"Homelink & Compass Integrated in Rearview Mirror",
+                "code":"000372"
+              }
+            ],
+            "packageprice":{
+              "currency":"USD",
+              "priceelement":{
+                "name":"CbV XC40 TEST",
+                "description":null,
+                "elementprice":"1900"
+              }
+            }
+          }
+        ]
+      },
+      "colour":{
+        "feature":{
+          "name":"Ice White",
+          "code":"61400",
+          "isaccessory":"false",
+          "featureprice":{
+            "elementprice":"0",
+            "type":"Normal"
+          }
+        }
+      },
+      "upholstery":{
+        "feature":{
+          "name":"Oxide Red Leather in Charcoal Interior",
+          "code":"RD9000",
+          "isaccessory":"false",
+          "featureprice":{
+            "elementprice":"0",
+            "type":"Normal"
+          }
+        }
+      }
+    },
+    "co2":"248",
+    "fuelConsumption":"258",
+    "efficiencyClass":null,
+    "modelyear":"2020",
+    "structureweek":"201917",
+    "totalprice":{
+      "currency":"USD",
+      "pricelistname":"CbV XC40 TEST",
+      "priceelement":[
+        {
+          "name":"CbV XC40 TEST",
+          "description":"Total price",
+          "elementprice":"41725"
+        },
+        {
+          "name":"Tax1",
+          "description":"Tax1",
+          "elementprice":"0"
+        },
+        {
+          "name":"Tax2",
+          "description":"Tax2",
+          "elementprice":"0"
+        },
+        {
+          "name":"Tax3",
+          "description":"Tax3",
+          "elementprice":"0"
+        },
+        {
+          "name":"Tax4",
+          "description":"Volvo Allowance",
+          "elementprice":"0"
+        },
+        {
+          "name":"DeliveryCharge",
+          "description":"Destination Fee",
+          "elementprice":"0"
+        },
+        {
+          "name":"BasicPrice",
+          "description":"MSRP",
+          "elementprice":"41725"
+        }
+      ],
+      "totalpricevalue":"41725"
+    },
+    "expectedDeliveryDate":null
+  },
+  "applicationparameters":{
+    "returnurl":"http://vbs-testing.ccdp.io/us/build/suv/xc40/momentum-subscription/t5-awd-momentum/summary?s=BPPQGWX&customerType=b2c",
+    "images":{
+      "view":[
+        {
+          "name":"exterior",
+          "angle":[
+            {
+              "value":"0",
+              "image":[
+                {
+                  "size":"dcom-1280x530",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&bg=ffffff&w=1200"
+                },
+                {
+                  "size":"dcom-1920x796",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&bg=ffffff&w=1920"
+                },
+                {
+                  "size":"dcom-640x265",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&bg=ffffff&w=512"
+                }
+              ]
+            },
+            {
+              "value":"1",
+              "image":[
+                {
+                  "size":"dcom-1280x530",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=1&bg=ffffff&w=1200"
+                },
+                {
+                  "size":"dcom-1920x796",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=1&bg=ffffff&w=1920"
+                },
+                {
+                  "size":"dcom-640x265",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=1&bg=ffffff&w=512"
+                }
+              ]
+            },
+            {
+              "value":"2",
+              "image":[
+                {
+                  "size":"dcom-1280x530",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=2&bg=ffffff&w=1200"
+                },
+                {
+                  "size":"dcom-1920x796",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=2&bg=ffffff&w=1920"
+                },
+                {
+                  "size":"dcom-640x265",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=2&bg=ffffff&w=512"
+                }
+              ]
+            },
+            {
+              "value":"3",
+              "image":[
+                {
+                  "size":"dcom-1280x530",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=3&bg=ffffff&w=1200"
+                },
+                {
+                  "size":"dcom-1920x796",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=3&bg=ffffff&w=1920"
+                },
+                {
+                  "size":"dcom-640x265",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=3&bg=ffffff&w=512"
+                }
+              ]
+            },
+            {
+              "value":"4",
+              "image":[
+                {
+                  "size":"dcom-1280x530",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=4&bg=ffffff&w=1200"
+                },
+                {
+                  "size":"dcom-1920x796",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=4&bg=ffffff&w=1920"
+                },
+                {
+                  "size":"dcom-640x265",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=4&bg=ffffff&w=512"
+                }
+              ]
+            },
+            {
+              "value":"5",
+              "image":[
+                {
+                  "size":"dcom-1280x530",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=5&bg=ffffff&w=1200"
+                },
+                {
+                  "size":"dcom-1920x796",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=5&bg=ffffff&w=1920"
+                },
+                {
+                  "size":"dcom-640x265",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=5&bg=ffffff&w=512"
+                }
+              ]
+            },
+            {
+              "value":"6",
+              "image":[
+                {
+                  "size":"dcom-1280x530",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=6&bg=ffffff&w=1200"
+                },
+                {
+                  "size":"dcom-1920x796",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=6&bg=ffffff&w=1920"
+                },
+                {
+                  "size":"dcom-640x265",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=6&bg=ffffff&w=512"
+                }
+              ]
+            },
+            {
+              "value":"7",
+              "image":[
+                {
+                  "size":"dcom-1280x530",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=7&bg=ffffff&w=1200"
+                },
+                {
+                  "size":"dcom-1920x796",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=7&bg=ffffff&w=1920"
+                },
+                {
+                  "size":"dcom-640x265",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/exterior-v1/42/61400/R128/_/TP02/_/LR02/_/SR06_f42/_/_/EV02/JB09/T211_f42/Default.jpg?market=us&client=vbsgw&Angle=7&bg=ffffff&w=512"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name":"interior",
+          "angle":[
+            {
+              "value":"0",
+              "image":[
+                {
+                  "size":"dcom-1280x530",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/interior-v1/C/RD9000/NC02/DI02/RU02/_/FJ02_fRD9000/EV02/K502/Default.jpg?market=us&client=vbsgw&bg=ffffff&w=1200"
+                },
+                {
+                  "size":"dcom-1920x796",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/interior-v1/C/RD9000/NC02/DI02/RU02/_/FJ02_fRD9000/EV02/K502/Default.jpg?market=us&client=vbsgw&bg=ffffff&w=1920"
+                },
+                {
+                  "size":"dcom-640x265",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/interior-v1/C/RD9000/NC02/DI02/RU02/_/FJ02_fRD9000/EV02/K502/Default.jpg?market=us&client=vbsgw&bg=ffffff&w=512"
+                }
+              ]
+            },
+            {
+              "value":"1",
+              "image":[
+                {
+                  "size":"dcom-1280x530",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/drivers-view-v1/C/RD9000/NC02/DI02/RU02/_/FJ02_fRD9000/EV02/K502/Default.jpg?market=us&client=vbsgw&bg=ffffff&w=1200"
+                },
+                {
+                  "size":"dcom-1920x796",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/drivers-view-v1/C/RD9000/NC02/DI02/RU02/_/FJ02_fRD9000/EV02/K502/Default.jpg?market=us&client=vbsgw&bg=ffffff&w=1920"
+                },
+                {
+                  "size":"dcom-640x265",
+                  "url":"https://qacas.volvocars.com/image/dynamic/MY19_1846/536/drivers-view-v1/C/RD9000/NC02/DI02/RU02/_/FJ02_fRD9000/EV02/K502/Default.jpg?market=us&client=vbsgw&bg=ffffff&w=512"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "userinput":{
+    "customerType":"b2c",
+    "contractType":"Sub",
+    "input":[
+      {
+        "name":"contractLength",
+        "value":"24"
+      },
+      {
+        "name":"mileage",
+        "value":"1250"
+      },
+      {
+        "name":"downpayment",
+        "value":"0"
+      }
+    ]
+  },
+  "selectedoffers":{
+    "selectedoffer":[
+      "Service",
+      "Concierge",
+      "Insurance",
+      "Upgrade",
+      "WheelProtection",
+      "ExcessProtection"
+    ]
+  },
+  "dealerid":"AEC7H",
+  "featureFlagDeterminants":{
+    "ip":"192.168.0.0",
+    "userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36",
+    "devEnvironmentOverrides":{
+
+    }
+  }
+}

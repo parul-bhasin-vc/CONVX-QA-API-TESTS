@@ -7,6 +7,7 @@ Feature: API tests for order-manager apis
     And path 'adgfZjW1A9JR8A3IZffZYkvnEhkwvboxsmDCKM8ponCq5tq50iAXzxxKPKMN2AUr9UG4r0nlYUoWbEH9VINPg'
     When method GET
     Then status 200
+    * print response
     
   Scenario: testing the get Order Details API for non-existing order
 

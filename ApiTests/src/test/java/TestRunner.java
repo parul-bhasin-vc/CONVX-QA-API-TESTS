@@ -7,10 +7,14 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;
 
+
 class TestRunner {
+
+    static String env;
 
     @BeforeAll
     public static void initialize(){
+        env = System.getProperty("karate.env");
 
     }
 
@@ -18,7 +22,7 @@ class TestRunner {
     void testParallel() {
         Results results = Runner.path("classpath:")
                 //.outputCucumberJson(true)
-                .tags("~@Ignore").parallel(20);
+                .tags("").parallel(20);
         assertEquals(0, results.getFailCount(), results.getErrorMessages());
     }
 

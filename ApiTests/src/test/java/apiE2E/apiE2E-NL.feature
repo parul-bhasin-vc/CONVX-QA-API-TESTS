@@ -1,19 +1,23 @@
 Feature: Functional API tests for Netherlands subscription flow
 
   Background:
-    * def transferServiceBaseApi = 'https://cdls.euwest1.staging.volvo.care/internal/transferservice/v1/transfer/addCarToCart'
+
+    * def functions = karate.read('../common.js')()
+    * def env = functions.readEnv()
+    * def urlConfig = read('../api-config.json')[env]
+
+
     * def orderManagerBaseApi = 'https://internal.cdls.euwest1.staging.volvo.care/internal/ordermanager/v1/orders'
     * def addSessionApi = 'https://cdls.euwest1.staging.volvo.care/ccdp/transactbackend/v4/api/session/add'
 
-  @Regression
+  @Regression @testNow
   Scenario Outline: Validate NL <salesModel> E2E flow with apis
-    * def req_headers = {Content-Type: 'application/vnd.volvocars.api.carconfig.v1+json', accept: 'application/vnd.volvocars.api.x.transferresponse.v1+json'}
-    * def dataPath = classpath: + ''
-    Then print "Location of classPath ==> "+dataPath
 
-    Given headers req_headers
-    And url transferServiceBaseApi
-    And def BodyOfRequest = read('carConfigNL.json')
+    * def transferServiceBaseApiURL = karate.jsonPath(urlConfig, "$..[?(@.name == 'transferServiceBaseAPI')].endpoint")
+    * def transferServiceBaseApiHDR = karate.jsonPath(urlConfig, "$..[?(@.name == 'transferServiceBaseAPI')].header")[0][0]
+    Given url transferServiceBaseApiURL+"addCarToCart"
+    And headers transferServiceBaseApiHDR
+    And def BodyOfRequest = read('../testData/'+'carConfigNL.json')
     And set BodyOfRequest.userinput.contractType = '<salesModel>'
     And set BodyOfRequest.userinput.input[0].value = '<contractLength>'
     And request BodyOfRequest
@@ -29,10 +33,12 @@ Feature: Functional API tests for Netherlands subscription flow
     Then print 'VCC-SESSION --> ' + responseHeaders['vcc-session']
     * def vccSession = '' + responseHeaders['vcc-session'][0]
 
-    Given url orderManagerBaseApi
+    * def orderManagerBaseApiURL = karate.jsonPath(urlConfig, "$..[?(@.name == 'OMBaseAPI')].endpoint")
+    * def orderManagerBaseApiHDR = karate.jsonPath(urlConfig, "$..[?(@.name == 'OMBaseAPI')].header")[0][0]
+
+    Given url orderManagerBaseApiURL + "orders/"
     And path cartId
-#    * def req_headers2 = {accept : 'application/vnd.volvocars.api.ordermanager.order.v1+json'}
-#    Then set headers req_headers2
+    And headers orderManagerBaseApiHDR
     When method GET
     Then status 200
     * def orderResponse = response
@@ -41,10 +47,13 @@ Feature: Functional API tests for Netherlands subscription flow
 #    Then match the salesModel and validate the order lines.
 
 
-    Given url addSessionApi
-    * def sessionApiHeaders = {Content-Type: 'application/vnd.volvocars.api.x.accesstokenrequest.v1+json', vcc-session: ''}
-    Then set sessionApiHeaders.vcc-session = vccSession
-    Given headers sessionApiHeaders
+    * def sessionBaseApiURL = karate.jsonPath(urlConfig, "$..[?(@.name == 'sessionBaseAPI')].endpoint")
+    * def sessionBaseApiHDR = karate.jsonPath(urlConfig, "$..[?(@.name == 'sessionBaseAPI')].header")[0][0]
+
+    Given url sessionBaseApiURL + "add"
+#    * def sessionApiHeaders = {Content-Type: 'application/vnd.volvocars.api.x.accesstokenrequest.v1+json', vcc-session: ''}
+    Then set sessionBaseApiHDR.vcc-session = vccSession
+    Given headers sessionBaseApiHDR
     And def sessionApiRequest =
     """
       {
@@ -69,7 +78,7 @@ Feature: Functional API tests for Netherlands subscription flow
 #    Then status 200
 
     Examples:
-      |           carJSON         | salesModel  | contractLength  |
-      |     carConfig-NL-sub.json    |     sub     |      24         |
-      |   carConfig-NL-sub.json   |  sub_fixed  |      48         |
-      |   carConfig-NL-cash.json  |    cash     |                 |
+    |  salesModel  | contractLength  |
+    |     sub      |      24         |
+    |  sub_fixed   |      48         |
+    |    cash      |                 |

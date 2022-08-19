@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "choices": {
+        "PCAT-xypiVrXrqcRuziLhFjHEpBvCHI": "PCAT-hRMDDBsDlEFKtJpxpZShTfFBgJ",
+        "PCAT-dPwFvKGDNFzuxNxyLfLICjRKFe": "PCAT-BfXEzvfuCVIuBceXUtvbgoHGMb"
+      },
+      "quantity": 1,
+      "productId": "PCAT-eLCnLCCAQBzurkCLDwoCFliZDa",
+      "offerId": "PCAT-nRGpwikoRvVulTYfuJhDKYhCzO"
+    }
+  ],
+  "customerType": "INDIVIDUAL",
+  "brand": "VCC",
+  "currency": "GBP",
+  "featureFlagDeterminants": {
+    "ip": "192.168.0.0",
+    "googleAnalyticsCookie": "_ga1234",
+    "acceptsFunctionalCookies": true,
+    "vccSession": "string",
+    "userAgent": "Mozilla/5.0"
+  },
+  "market": {
+    "country": "gb",
+    "language": "en"
+  }
+}

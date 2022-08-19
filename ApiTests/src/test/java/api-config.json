@@ -6,7 +6,18 @@
       "header" : [
         {
           "Content-Type": "application/vnd.volvocars.api.carconfig.v1+json",
-          "accept"      : "application/vnd.volvocars.api.x.transferresponse.v1+json"}
+          "accept"      : "application/vnd.volvocars.api.x.transferresponse.v1+json"
+        }
+      ]
+    },
+    {
+      "name" : "transferServiceAddProducts",
+      "endpoint" : "https://cdls.euwest1.staging.volvo.care/internal/transferservice/v1/transfer/addProductsToCart",
+      "header" : [
+        {
+          "Content-Type": "application/vnd.volvocars.api.transferservice.bundle.v1+json",
+          "accept"      : "application/vnd.volvocars.api.x.transferresponse.v1+json"
+        }
       ]
     },
     {
@@ -48,6 +59,16 @@
       "name" : "transferServiceBaseAPI",
       "endpoint" : "https://cdls.uswest2.development.volvo.care/internal/transferservice/v1/transfer/",
       "header" : ""
+    },
+    {
+      "name" : "transferServiceAddProducts",
+      "endpoint" : "https://cdls.uswest2.development.volvo.care/internal/transferservice/v1/transfer/addProductsToCart",
+      "header" : [
+        {
+          "Content-Type": "application/vnd.volvocars.api.transferservice.bundle.v1+json",
+          "accept"      : "application/vnd.volvocars.api.x.transferresponse.v1+json"
+        }
+      ]
     },
     {
       "name" : "transactBaseAPI",
